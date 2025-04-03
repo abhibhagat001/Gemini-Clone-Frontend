@@ -57,7 +57,7 @@ This will start the development server, and you can access the app at http://loc
 
 - https://gemini-clone-frontend-tt2v.vercel.app/
 
-## reference or copyrights
+## Reference or Copyrights
 
 - google gemini platform && https://youtu.be/0yboGn8errU?si=GsrhN2C6mWJsVEN8 
 
