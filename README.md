@@ -1,6 +1,6 @@
 ## Gemini Clone 
 
-This is the frontend for the Gemini tool clone project, built using React and Vite.
+This is the Google Gemini clone project, built using React and Vite.
 
 ## Features
 
@@ -17,10 +17,10 @@ This is the frontend for the Gemini tool clone project, built using React and Vi
 Gemini-Frontend/
 ├── public/           # Static assets
 ├── src/              # Source code
-│   ├── assests/      # Images and styles
+│   ├── assests/      # Images and icons
 │   ├── components/   # Reusable React components
+│   ├── Config/       # Google Gemini API configuration
 │   ├── Context/      # Context API for state management
-│   ├── utils/        # Utility functions
 │   ├── main.jsx      # Entry point
 ├── package.json      # Dependencies and scripts
 ├── vite.config.js    # Vite configuration
@@ -36,15 +36,19 @@ Gemini-Frontend/
 
     Git
 
-Clone the Repository
-    - git clone https://github.com/abhibhagat001/Gemini-Clone-Frontend
-    - cd gemini-frontend
+- Clone the Repository
+    
+    git clone https://github.com/abhibhagat001/Gemini-Clone-Frontend
 
-Install Dependencies
-    - npm install
+    cd gemini-frontend
 
-Start the Development Server
-    - npm run dev
+- Install Dependencies
+    
+    npm install
+
+- Start the Development Server
+    
+    npm run dev
 
 
 This will start the development server, and you can access the app at http://localhost:5173.
